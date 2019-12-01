@@ -1,0 +1,43 @@
+import time
+import subprocess
+import random
+
+subprocess.run("color a", shell=True)
+subprocess.run("mode con cols=100 lines=30", shell=True)
+
+print("==============================================================")
+print("[+] Created By Muhammad Aliyu")
+print("[+] Hack into Facebook account")
+print("[+] This program is not created to harm anyone")
+print("[+] It is created for fun")
+print("[+] I will not be responsible for any harm you cost script kiddies")
+print("==============================================================")
+print("")
+email = input("Enter your Facebook Email:")
+time.sleep(2)
+print("")
+print("[-] Entering Facebook Server.............")
+time.sleep(2)
+print("")
+print("[-] Inserting", email, "to the login page")
+time.sleep(3)
+print("")
+print("[-] Creating a backdoor in there server.........")
+print("[-] Pls be patient")
+time.sleep(2)
+print("")
+print("[-] Making my way into their server...........")
+print("[-] Bruteforcing server starting soon........")
+print("[-] Creating a meterpreter in", email , "Facebook Account.........")
+time.sleep(4)
+print("")
+print("[-] Hacking will start in 5 seconds")
+time.sleep(5)
+print("")
+print("[-] Pls wait hacking into the facebook profile")
+time.sleep(2)
+print("")
+
+while True:
+    time.sleep(1)
+    print("Email:__[", email ,"]__Password:__[", random.randrange(10000000, 100000000000) , "]__Trying__Random_Passcode")
